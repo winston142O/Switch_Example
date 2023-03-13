@@ -1,0 +1,15 @@
+D:\Coding\C#\Projects\Tarea_Semana6_UsoBucles\obj\Debug\net6.0\Tarea_Semana6_UsoBucles.csproj.AssemblyReference.cache
+D:\Coding\C#\Projects\Tarea_Semana6_UsoBucles\obj\Debug\net6.0\Tarea_Semana6_UsoBucles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Projects\Tarea_Semana6_UsoBucles\obj\Debug\net6.0\Tarea_Semana6_UsoBucles.AssemblyInfoInputs.cache
+D:\Coding\C#\Projects\Tarea_Semana6_UsoBucles\obj\Debug\net6.0\Tarea_Semana6_UsoBucles.AssemblyInfo.cs
+D:\Coding\C#\Projects\Tarea_Semana6_UsoBucles\obj\Debug\net6.0\Tarea_Semana6_UsoBucles.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Projects\Tarea_Semana6_UsoBucles\bin\Debug\net6.0\Tarea_Semana6_UsoBucles.exe
+D:\Coding\C#\Projects\Tarea_Semana6_UsoBucles\bin\Debug\net6.0\Tarea_Semana6_UsoBucles.deps.json
+D:\Coding\C#\Projects\Tarea_Semana6_UsoBucles\bin\Debug\net6.0\Tarea_Semana6_UsoBucles.runtimeconfig.json
+D:\Coding\C#\Projects\Tarea_Semana6_UsoBucles\bin\Debug\net6.0\Tarea_Semana6_UsoBucles.dll
+D:\Coding\C#\Projects\Tarea_Semana6_UsoBucles\bin\Debug\net6.0\Tarea_Semana6_UsoBucles.pdb
+D:\Coding\C#\Projects\Tarea_Semana6_UsoBucles\obj\Debug\net6.0\Tarea_Semana6_UsoBucles.dll
+D:\Coding\C#\Projects\Tarea_Semana6_UsoBucles\obj\Debug\net6.0\refint\Tarea_Semana6_UsoBucles.dll
+D:\Coding\C#\Projects\Tarea_Semana6_UsoBucles\obj\Debug\net6.0\Tarea_Semana6_UsoBucles.pdb
+D:\Coding\C#\Projects\Tarea_Semana6_UsoBucles\obj\Debug\net6.0\Tarea_Semana6_UsoBucles.genruntimeconfig.cache
+D:\Coding\C#\Projects\Tarea_Semana6_UsoBucles\obj\Debug\net6.0\ref\Tarea_Semana6_UsoBucles.dll

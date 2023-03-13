@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tarea_Semana6_UsoBucles/1.0.0": {
+        "runtime": {
+          "Tarea_Semana6_UsoBucles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea_Semana6_UsoBucles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
